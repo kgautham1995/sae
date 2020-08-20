@@ -20,7 +20,7 @@ from website import views
 from django.conf import settings
 
 urlpatterns = [
-    path('sensei/', admin.site.urls),
+    path('admin/', admin.site.urls),
     path('', views.index, name="index"),
     path('save/', views.savedet, name="save")
 ]

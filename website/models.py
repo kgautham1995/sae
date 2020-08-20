@@ -54,3 +54,8 @@ class ContactusModel(models.Model):
     Email = models.EmailField(unique=True)
     ContactNo = models.IntegerField()
     Message = models.CharField(max_length=1000)
+
+class Warehouse(models.Model):
+    Item_Name = models.CharField(max_length=200, unique=True)
+    Price = models.FloatField()
+    Quantity = models.IntegerField()
