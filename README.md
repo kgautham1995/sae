@@ -1,0 +1,3 @@
+This is a software application which is used for Communicating with the customers and letting them know about the variety of products, Services and the quality that the company maintains also the customers can also check out the company on other social media platform and Reach  out to the Owner/Manager of the company in a smooth and efficient manner and place the order over phone, this process would help the customer to stay indoors and stay safe.
+
+This website would also allow the customer and the Management to fulfil the requirements with the help of this website and with no contact delivery
